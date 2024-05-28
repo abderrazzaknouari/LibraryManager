@@ -36,11 +36,7 @@ lib/
 
 ## Installation
 
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/yourusername/library_manager.git
-   cd library_manager
-   ```
+
 
 2. **Install dependencies**
    ```sh
@@ -118,9 +114,7 @@ Ensure that the following assets are added to your project:
 assets/
 |-- library.jpg
 |-- logo.png
-|-- book1.jpg
-|-- book2.jpg
-|-- book3.jpg
+
 ```
 
 Add the assets to your `pubspec.yaml` file:
@@ -131,9 +125,6 @@ flutter:
   assets:
     - assets/library.jpg
     - assets/logo.png
-    - assets/book1.jpg
-    - assets/book2.jpg
-    - assets/book3.jpg
 ```
 
 ## Screenshots
